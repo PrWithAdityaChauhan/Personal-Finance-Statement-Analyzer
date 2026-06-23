@@ -26,24 +26,6 @@ Personal-Finance-Analyzer/
 ├── report/
 └── README.md
 
-## Dashboard
-
-### Category Spending
-
-![Category Spending](charts/category_spending.png)
-
-### Expense Distribution
-
-![Expense Distribution](charts/expense_distribution.png)
-
-### Monthly Trend
-
-![Monthly Trend](charts/monthly_trend.png)
-
-### Top Merchants
-
-![Top Merchants](charts/top_merchants.png)
-
 ## Key Insights
 
 - Spending categorized and analyzed.
