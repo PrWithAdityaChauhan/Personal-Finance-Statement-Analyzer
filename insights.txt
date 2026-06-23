@@ -1,0 +1,157 @@
+=================================================
+
+PERSONAL FINANCE ANALYZER
+ANALYSIS REPORT
+
+=================================================
+
+PROJECT OBJECTIVE
+
+The objective of this project is to analyze personal financial
+transactions and identify spending patterns through data analysis
+and visualization techniques.
+
+=================================================
+
+DATASET SUMMARY
+
+Total Transactions: 1500
+
+Expense Transactions: 1222
+
+Income Transactions: 278
+
+Categories Present:
+- Travel
+- Rent
+- Food & Drink
+- Entertainment
+- Shopping
+- Utilities
+- Health & Fitness
+- Salary
+
+=================================================
+
+FINANCIAL SUMMARY
+
+Total Expenses:
+₹ 1,227,194.37
+
+Total Income:
+₹ 734,087.00
+
+Net Balance:
+₹ -493,107.37
+
+(The expenses are significantly higher than the recorded income.)
+
+=================================================
+
+CATEGORY-WISE ANALYSIS
+
+Top Spending Categories:
+
+1. Travel
+   ₹ 169,497.79
+
+2. Rent
+   ₹ 162,075.39
+
+3. Food & Drink
+   ₹ 159,493.39
+
+4. Salary
+   ₹ 149,053.55
+
+5. Entertainment
+   ₹ 148,165.47
+
+=================================================
+
+LOWEST SPENDING CATEGORIES
+
+1. Health & Fitness
+   ₹ 145,194.06
+
+2. Utilities
+   ₹ 146,833.97
+
+3. Shopping
+   ₹ 146,880.75
+
+=================================================
+
+TOP 3 SPENDING LEAKS
+
+1. Travel
+   ₹ 169,497.79
+
+2. Rent
+   ₹ 162,075.39
+
+3. Food & Drink
+   ₹ 159,493.39
+
+These three categories contribute the largest portion of total
+expenses and represent the primary spending areas.
+
+=================================================
+
+MONTHLY ANALYSIS
+
+Highest Spending Month:
+August 2020
+₹ 31,386.80
+
+Lowest Spending Month:
+December 2021
+₹ 9,996.66
+
+The spending trend indicates considerable variation across months,
+suggesting periods of increased expenditure.
+
+=================================================
+
+KEY OBSERVATIONS
+
+• Travel is the largest expense category.
+
+• Rent remains one of the biggest fixed costs.
+
+• Food & Drink spending is substantial and may provide opportunities
+  for cost optimization.
+
+• Entertainment and Shopping also account for a significant portion
+  of overall expenditure.
+
+• Health & Fitness and Utilities contribute comparatively less to
+  total spending.
+
+=================================================
+
+RECOMMENDATIONS
+
+1. Establish a monthly budget for Travel expenses.
+
+2. Monitor Food & Drink purchases to reduce discretionary spending.
+
+3. Review recurring expenses regularly.
+
+4. Set spending alerts for high-value transactions.
+
+5. Track monthly trends to identify unusual spending patterns.
+
+=================================================
+
+CONCLUSION
+
+The Personal Finance Analyzer successfully transformed raw
+transaction records into meaningful financial insights.
+
+The analysis identified major spending categories, monthly spending
+patterns, and potential spending leaks. These insights can help
+users make informed budgeting decisions and improve financial
+management.
+
+=================================================
